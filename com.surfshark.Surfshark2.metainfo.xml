@@ -58,7 +58,7 @@
     <categories>
         <category>Utility</category>
     </categories>
-    <launchable type="desktop-id">com.surfshark.Surfshark.desktop</launchable>
+    <launchable type="desktop-id">com.surfshark.Surfshark2.desktop</launchable>
     <branding>
         <color type="primary" scheme_preference="light">#FFFFFF</color>
         <color type="primary" scheme_preference="dark">#16191C</color>
