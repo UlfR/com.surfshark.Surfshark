@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/flatpak/flatpak-builder/main/data/flatpak-manifest.schema.json
 
-app-id: com.surfshark.Surfshark
+app-id: com.surfshark.Surfshark2
 runtime: org.gnome.Platform
 runtime-version: '47'
 base: org.electronjs.Electron2.BaseApp
