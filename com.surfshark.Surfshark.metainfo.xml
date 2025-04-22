@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-    <id>com.surfshark.Surfshark</id>
+    <id>com.surfshark.Surfshark2</id>
 
-    <name>Surfshark</name>
+    <name>Surfshark2</name>
     <summary>Connect to secure, private web!</summary>
     <url type="homepage">https://surfshark.com/</url>
     <url type="contact">https://support.surfshark.com/</url>
